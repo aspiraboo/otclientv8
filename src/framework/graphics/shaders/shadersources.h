@@ -20,8 +20,8 @@
  * THE SOFTWARE.
  */
 
-#ifndef PAINTEROGL2_SHADERSOURCES_H
-#define PAINTEROGL2_SHADERSOURCES_H
+#ifndef SHADERSOURCES_H
+#define SHADERSOURCES_H
 
 static const std::string glslMainVertexShader = "\n\
     vec4 calculatePosition();\n\
